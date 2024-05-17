@@ -1,0 +1,14 @@
+.bar-graph-container {
+  background-color: #1c1c2b;
+  border-radius: 5px;
+  width: 1050px;
+  padding-top: 20px;
+  height: 450px;
+}
+
+.bar-graph-heading {
+  font-family: 'Roboto';
+  color: #94a3b8;
+  font-size: 20px;
+  margin-left: 20px;
+}

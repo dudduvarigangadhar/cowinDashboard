@@ -1,0 +1,29 @@
+.cowin-dashboard-bg-container {
+  background-color: #161625;
+  /* height: 100vh; */
+  background-size: cover;
+  padding-left: 30px;
+}
+
+.logo-img {
+  height: 30px;
+}
+
+.main-heading {
+  font-family: 'Roboto';
+  color: #2cc6c6;
+  font-size: 20px;
+  margin-left: 5px;
+}
+
+.logo-container {
+  display: flex;
+  align-items: center;
+  padding-top: 20px;
+}
+
+.main-description {
+  font-family: 'Roboto';
+  color: #cbd5e1;
+  font-size: 23px;
+}
